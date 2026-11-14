@@ -1,5 +1,5 @@
 // キャッシュ名の末尾の数字を変更すると、次回起動時に新しいキャッシュへ入れ替わります。
-const CACHE_NAME = "drone-diary-step1-v1";
+const CACHE_NAME = "drone-diary-step1-v2";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
